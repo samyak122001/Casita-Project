@@ -47,12 +47,7 @@ Before you begin, ensure you have the following installed on your system:
 - Python 3.8 or higher
 - pip (Python package installer)
 - Jupyter Notebook or JupyterLab
-
-### **Clone the Repository**
-First, clone the repository to your local machine. Open a terminal and run the following command:
-```sh
-git clone https://github.com/isacarias/Casita.git
-```
+- 
 
 ## Running the Application
 
