@@ -1,0 +1,266 @@
+{
+    "Breakfast": {
+        "Pericos con queso y toast": {
+            "ingredients": {
+                "eggs": {
+                    "qty": 4,
+                    "unit": "units"
+                },
+                "bread": {
+                    "qty": 2,
+                    "unit": "slices"
+                },
+                "cheese": {
+                    "qty": 60,
+                    "unit": "grams"
+                }
+            },
+            "servings": 1
+        },
+        "Avena con fruta": {
+            "ingredients": {
+                "oatmeal": {
+                    "qty": 2,
+                    "unit": "packs"
+                },
+                "fruit": {
+                    "qty": 2,
+                    "unit": "units"
+                }
+            },
+            "servings": 1
+        }
+    },
+    "Snack": {
+        "Fruta (manzana o banana)": {
+            "ingredients": {
+                "fruit": {
+                    "qty": 2,
+                    "unit": "units"
+                }
+            },
+            "servings": 1
+        },
+        "Protein shake": {
+            "ingredients": {
+                "milk": {
+                    "qty": 500,
+                    "unit": "ml"
+                },
+                "protein powder": {
+                    "qty": 2,
+                    "unit": "scoops"
+                }
+            },
+            "servings": 1
+        }
+    },
+    "Lunch": {
+        "Lomo de cerdo al horno + [Carb] + [Veg] + [Salsa]": {
+            "ingredients": {
+                "pork loin": {
+                    "qty": 1,
+                    "unit": "unit"
+                },
+                "Carb": {
+                    "qty": 1,
+                    "unit": "serving"
+                },
+                "Veg": {
+                    "qty": 1,
+                    "unit": "serving"
+                },
+                "Salsa": {
+                    "qty": 1,
+                    "unit": "serving"
+                }
+            },
+            "servings": 3
+        },
+        "Pollo a la plancha + [Carb] + [Veg]": {
+            "ingredients": {
+                "chicken breast": {
+                    "qty": 1200,
+                    "unit": "grams"
+                },
+                "Carb": {
+                    "qty": 1,
+                    "unit": "serving"
+                },
+                "Veg": {
+                    "qty": 1,
+                    "unit": "serving"
+                }
+            },
+            "servings": 3
+        },
+        "Enchiladas de pollo + [Salsa]": {
+            "ingredients": {
+                "chicken breast": {
+                    "qty": 400,
+                    "unit": "grams"
+                },
+                "tortillas": {
+                    "qty": 10,
+                    "unit": "units"
+                },
+                "Salsa": {
+                    "qty": 1,
+                    "unit": "serving"
+                }
+            },
+            "servings": 2
+        },
+        "Daal": {
+            "ingredients": {
+                "lentils": {
+                    "qty": 250,
+                    "unit": "grams"
+                },
+                "red onion": {
+                    "qty": 1,
+                    "unit": "units"
+                },
+                "tomato": {
+                    "qty": 3,
+                    "unit": "serving"
+                },
+                "garlic": {
+                    "qty": 5,
+                    "unit": "cloves"
+                },
+                "ginger": {
+                    "qty": 1,
+                    "unit": "knob"
+                },
+                "cilantro": {
+                    "qty": 1,
+                    "unit": "bunch"
+                }
+            },
+            "servings": 2
+        }
+    },
+    "Dinner": {
+        "Quesadillas de tinga de pollo": {
+            "ingredients": {
+                "chicken breast": {
+                    "qty": 400,
+                    "unit": "grams"
+                },
+                "cheese": {
+                    "qty": 100,
+                    "unit": "grams"
+                },
+                "tortillas de harina": {
+                    "qty": 8,
+                    "unit": "units"
+                }
+            },
+            "servings": 2
+        },
+        "Baleadas": {
+            "ingredients": {
+                "refried beans": {
+                    "qty": 200,
+                    "unit": "grams"
+                },
+                "cheese": {
+                    "qty": 100,
+                    "unit": "grams"
+                },
+                "tortillas de harina": {
+                    "qty": 8,
+                    "unit": "units"
+                }
+            },
+            "servings": 2
+        }
+    },
+    "Carb": {
+        "Arroz con frijoles": {
+            "ingredients": {
+                "rice": {
+                    "qty": 200,
+                    "unit": "grams"
+                },
+                "beans": {
+                    "qty": 150,
+                    "unit": "grams"
+                }
+            }
+        },
+        "Mejadra": {
+            "ingredients": {
+                "rice": {
+                    "qty": 200,
+                    "unit": "grams"
+                },
+                "lentils": {
+                    "qty": 150,
+                    "unit": "grams"
+                }
+            }
+        }
+    },
+    "Veg": {
+        "Brocoli y coliflor": {
+            "ingredients": {
+                "broccoli": {
+                    "qty": 150,
+                    "unit": "grams"
+                },
+                "cauliflower": {
+                    "qty": 150,
+                    "unit": "grams"
+                }
+            }
+        },
+        "Kale con cesar dressing": {
+            "ingredients": {
+                "kale": {
+                    "qty": 1,
+                    "unit": "bunch"
+                },
+                "cesar dressing": {
+                    "qty": 6,
+                    "unit": "tbsp"
+                }
+            }
+        }
+    },
+    "Salsa": {
+        "Salsa verde": {
+            "ingredients": {
+                "green tomatoes": {
+                    "qty": 5,
+                    "unit": "units"
+                },
+                "jalapeno": {
+                    "qty": 1,
+                    "unit": "unit"
+                },
+                "cilantro": {
+                    "qty": 30,
+                    "unit": "grams"
+                }
+            }
+        },
+        "Salsa roja": {
+            "ingredients": {
+                "tomatoes": {
+                    "qty": 5,
+                    "unit": "units"
+                },
+                "jalapeno": {
+                    "qty": 1,
+                    "unit": "unit"
+                },
+                "cilantro": {
+                    "qty": 30,
+                    "unit": "grams"
+                }
+            }
+        }
+    }
+}
